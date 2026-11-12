@@ -41,14 +41,14 @@
 		<meta property="term" refines="#subject-3">sh2008106912</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fantasy</meta>
-		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<meta property="schema:abstract">ABSTRACT</meta>
 		<meta id="collection-1" property="belongs-to-collection">Martian</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">7</meta>
+		<meta property="schema:abstract">A courageous warrior of Barsoom seeks to rescue the woman he loves, undaunted by savage creatures or malevolent tyrants, and escaping mortal danger with clever resourcefulness.</meta>
 		<dc:description>
-			DESCRIPTION
+			&lt;p&gt;Hadron of Hastor leaps into action when he learns the woman he loves has been abducted. He is driven by duty and honor despite her rejection of his proposal. He cleverly identifies the kidnappers as agents for Tul Axtar, Jeddack of Jahar. A curious and courageous adventurer, Hadron’s search explores previously unknown parts of Barsoom. He battles savage creatures, faces mortal danger from evil despots and a vengeful mad scientist, relying on his wits and warrior skills for daring escapes from dire circumstances. He is helped on his journey by loyal companions he rescues despite grave peril, yet ultimately is met with treacherous betrayal. The climactic military combat is not simply good versus evil, it is fraught with momentous consequences due to advances in Martian weaponry science and technology, devastating in the wrong hands.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;A Fighting Man of Mars&lt;/i&gt; is the seventh in &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Burroughs’&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/martian"&gt;Martian series&lt;/a&gt;. It was first serialized in six parts in &lt;i&gt;Blue Book Magazine&lt;/i&gt; from April to September 1930, then published as a novel in 1931.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70691</dc:source>
